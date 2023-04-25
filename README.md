@@ -18,8 +18,8 @@ This application will dynamically render a readme file based on user answers wit
 N/A
 
 ## Usage
-Users can enter text and list selections to generate a readme file
-Link to walkthrough video: (https://drive.google.com/file/d/1907EX0iiKkaYh9RRzaj3Tco0S9DdiCMb/view)
+Users can enter text and list selections to generate a readme file <br />
+Link to walkthrough video: https://drive.google.com/file/d/1907EX0iiKkaYh9RRzaj3Tco0S9DdiCMb/view
 
 ## License
 Licensed under the [None](https://spdx.org/licenses/Unlicense.html) license
