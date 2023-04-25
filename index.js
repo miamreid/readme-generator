@@ -3,7 +3,7 @@
 const inquirer = require('inquirer')
 console.log('readme generator test run')
 const fs = require('fs')
-const MarkDown = require("./lib/generateReadMe")
+const MarkDown = require("./Develop/lib/generateReadMe")
 //readme generator questions
 // TODO: Create an array of questions for user input
 const questions = [
